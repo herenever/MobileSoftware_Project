@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ICE SHOP</string>
+    <string name="intro">안녕하세요 ICE SHOP 고객 여러분\n 저희 ICE SHOP은 고객님들의 \n만족스러운 쇼핑을 위해 노력하고 있습니다.\n 쇼핑 시 불편한 사항이 있다면 언제든지 문의 주십시오</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
